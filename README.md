@@ -1,5 +1,3 @@
-"# TE-IT-OS-Assignments" 
-
 # Operating Systems Assignments (C Programming)
 
 This repository contains C implementations of various operating system concepts, covering basic Linux commands, process control, CPU scheduling, thread synchronization, deadlock avoidance, page replacement, inter-process communication, disk scheduling, and a kernel system call study.
